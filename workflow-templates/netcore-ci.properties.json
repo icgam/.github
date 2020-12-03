@@ -1,0 +1,11 @@
+{
+    "name": ".Net Core 3.1 - Workflow",
+    "description": "ICG - CI Non-Default workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        ".NET Core",
+        "C#",
+    ],
+    "filePatterns": [
+    ]
+}
