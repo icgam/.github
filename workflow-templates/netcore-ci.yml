@@ -2,12 +2,10 @@ name: CI on Branches and PRs
 
 on:
   workflow_dispatch:
-    branches: [ "*" ]
     branches-ignore: [ $default-branch ]
     paths: "src/**"
 
   push:
-    branches: [ "*" ]
     branches-ignore: [ $default-branch ]
     paths: "src/**"
 
